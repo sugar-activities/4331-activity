@@ -1,0 +1,28 @@
+26
+
+* polish graphics
+
+25
+
+* GTK3 port by Ignacio Rodriguez
+* Fix problem with preview image
+
+24.3
+
+* New Sugar-compliant icon
+
+24.2
+
+* Clear workspace when going to new level (OZ #3688)
+
+24.1
+
+* Turn off sharing
+* Use monochrome icons
+* pep8 cleanup
+* Fix problems with launching outside of Sugar
+
+24
+
+* Aggressive Sugar stylizing
+* Handle screen rotation

@@ -1,0 +1,9 @@
+[Activity]
+name = Spirolaterals
+activity_version = 26
+host_version = 1
+bundle_id = org.laptop.community.Spirolaterals
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
+summary = turtle pattern programming challenge

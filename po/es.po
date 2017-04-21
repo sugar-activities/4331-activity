@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-22 11:31-0400\n"
+"PO-Revision-Date: 2012-02-14 17:55+0200\n"
+"Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Spirolaterals"
+msgstr ""
+
+#: activity/activity.info:3
+msgid "turtle pattern programming challenge"
+msgstr "Un juego de programación" 
+
+#: activity.py:78
+msgid "Draw"
+msgstr "Trazar"
+
+#: activity.py:84
+msgid "Stop"
+msgstr "Parar"
+
+#: activity.py:90
+msgid "Next pattern"
+msgstr "Siguiente patrón" 
+
+#: activity.py:114
+msgid "<Ctrl>Q"
+msgstr ""
+
+#: activity.py:184
+msgid "Slow down"
+msgstr "Retardar"
+
+#: activity.py:199
+msgid "Acelerar"
+msgstr ""
+
+#: activity.py:371
+msgid "Good job!"
+msgstr "¡Buen trabajo!"
+
+#: activity.py:515
+msgid "Try again."
+msgstr "Inténtelo de nuevo."
